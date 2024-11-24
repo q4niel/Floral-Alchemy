@@ -3,7 +3,8 @@
 	"package": "q4niel.floral.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ItemsMixin"
+		"ItemsMixin",
+		"BeeEntityMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
