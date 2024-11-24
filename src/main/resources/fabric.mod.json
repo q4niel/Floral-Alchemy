@@ -19,9 +19,6 @@
 		],
 		"fabric-datagen": [
 			"q4niel.floral.FloralAlchemyDataGenerator"
-		],
-		"client": [
-			"q4niel.floral.FloralAlchemyClient"
 		]
 	},
 	"mixins": [
