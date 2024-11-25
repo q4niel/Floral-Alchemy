@@ -16,4 +16,4 @@ Potion crafting now centers around flowers! Brewing **Awkward Potion** now uses 
 <img src="src/main/resources/assets/floral/textures/painting/potions.png" alt="Potion Recipes" width="400">
 
 ## Feedback
-Found a bug or got some suggestions, head over to [GitHub Issues](link-to-issues-page).
+Found a bug or got some suggestions, head over to [GitHub Issues](https://github.com/q4niel/Floral-Alchemy/issues).
