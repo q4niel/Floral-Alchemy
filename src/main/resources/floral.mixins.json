@@ -4,7 +4,9 @@
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ItemsMixin",
-		"BeeEntityMixin"
+		"BrewingRecipeRegistryMixin",
+		"BrewingStandBlockEntityMixin",
+		"BrewingStandScreenHandlerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
