@@ -1,7 +1,7 @@
 # Floral Alchemy
 **Revamps brewing mechanics with... flowers?**
 
-## Key Features
+## Features
 - **Brewing Stand**: Now crafted with a **Copper Ingot** instead of a Blaze Rod.
 - **Honeycomb**: Acts as **brewing fuel**, replacing Blaze Powder.
 - **Potion Stacking**: Potions now stack up to **16**.
