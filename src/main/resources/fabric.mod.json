@@ -10,7 +10,7 @@
 	"contact": {
 		"sources": "https://github.com/q4niel/Floral-Brewing"
 	},
-	"license": "The Insight License I",
+	"license": "The Insight License II",
 	"icon": "assets/floral/icon.png",
 	"environment": "*",
 	"entrypoints": {
