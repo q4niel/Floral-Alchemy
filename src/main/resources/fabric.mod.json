@@ -2,23 +2,23 @@
 	"schemaVersion": 1,
 	"id": "floral",
 	"version": "${version}",
-	"name": "Floral Alchemy",
+	"name": "Floral Brewing",
 	"description": "Revamps brewing mechanics with... flowers?",
 	"authors": [
 		"q4niel"
 	],
 	"contact": {
-		"sources": "https://github.com/q4niel/Floral-Alchemy"
+		"sources": "https://github.com/q4niel/Floral-Brewing"
 	},
 	"license": "The Insight License I",
 	"icon": "assets/floral/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"q4niel.floral.FloralAlchemy"
+			"q4niel.floral.FloralBrewing"
 		],
 		"fabric-datagen": [
-			"q4niel.floral.FloralAlchemyDataGenerator"
+			"q4niel.floral.FloralBrewingDataGenerator"
 		]
 	},
 	"mixins": [
