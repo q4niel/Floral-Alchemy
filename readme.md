@@ -3,7 +3,7 @@
 
 ## Features
 - **Brewing Stand**: Now crafted with a **Copper Ingot** instead of a Blaze Rod.
-- **Honeycomb**: Acts as **brewing fuel**, replacing Blaze Powder.
+- **Charcoal**: Acts as **brewing fuel**, replacing Blaze Powder.
 - **Potion Stacking**: Potions now stack up to **16**.
 - **Gunpowder & Dragon's Breath**: Still used for **Splash** and **Lingering** potions.
 - **New Potion Modifiers**:

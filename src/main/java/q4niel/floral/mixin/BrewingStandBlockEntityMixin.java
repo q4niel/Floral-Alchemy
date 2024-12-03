@@ -20,7 +20,7 @@ public class BrewingStandBlockEntityMixin {
             index = 0
     )
     private static Item tickModifyIsOf(Item item) {
-        return Items.HONEYCOMB;
+        return Items.CHARCOAL;
     }
 
     @ModifyArg (
@@ -33,6 +33,6 @@ public class BrewingStandBlockEntityMixin {
             index = 0
     )
     private Item isValidModifyIsOf(Item item) {
-        return Items.HONEYCOMB;
+        return Items.CHARCOAL;
     }
 }

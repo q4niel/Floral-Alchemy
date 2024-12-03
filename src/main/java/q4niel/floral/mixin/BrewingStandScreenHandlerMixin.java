@@ -18,6 +18,6 @@ public class BrewingStandScreenHandlerMixin {
             index = 0
     )
     private static Item matchesModifyIsOf(Item item) {
-        return Items.HONEYCOMB;
+        return Items.CHARCOAL;
     }
 }
