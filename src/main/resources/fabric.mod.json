@@ -7,7 +7,12 @@
 	"authors": [
 		"q4niel"
 	],
+	"contributors": [
+		"Max Westerlund - Art Assets"
+	],
 	"contact": {
+		"homepage": "https://modrinth.com/mod/floral-brewing",
+		"issues": "https://github.com/q4niel/Floral-Brewing/issues",
 		"sources": "https://github.com/q4niel/Floral-Brewing"
 	},
 	"license": "The Insight License II",
