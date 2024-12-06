@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "q4niel.floral.mixin",
+	"package": "q4niel.natures_cauldron.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ItemsMixin",

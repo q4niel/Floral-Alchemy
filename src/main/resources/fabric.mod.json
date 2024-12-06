@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "floral",
+	"id": "natures_cauldron",
 	"version": "${version}",
-	"name": "Floral Brewing",
+	"name": "Nature's Cauldron",
 	"description": "Revamps brewing mechanics with... flowers?",
 	"authors": [
 		"q4niel"
@@ -11,23 +11,23 @@
 		"Max Westerlund - Art Assets"
 	],
 	"contact": {
-		"homepage": "https://modrinth.com/mod/floral-brewing",
-		"issues": "https://github.com/q4niel/Floral-Brewing/issues",
-		"sources": "https://github.com/q4niel/Floral-Brewing"
+		"homepage": "https://modrinth.com/mod/natures-cauldron",
+		"issues": "https://github.com/q4niel/Natures-Cauldron/issues",
+		"sources": "https://github.com/q4niel/Natures-Cauldron"
 	},
 	"license": "The Insight License II",
-	"icon": "assets/floral/icon.png",
+	"icon": "assets/natures_cauldron/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"q4niel.floral.FloralBrewing"
+			"q4niel.natures_cauldron.NaturesCauldron"
 		],
 		"fabric-datagen": [
-			"q4niel.floral.FloralBrewingDataGenerator"
+			"q4niel.natures_cauldron.NaturesCauldronDataGenerator"
 		]
 	},
 	"mixins": [
-		"floral.mixins.json"
+		"natures_cauldron.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.9",

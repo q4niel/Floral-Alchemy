@@ -1,4 +1,4 @@
-package q4niel.floral.mixin;
+package q4niel.natures_cauldron.mixin;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.Items;

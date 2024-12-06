@@ -1,4 +1,4 @@
-# Floral Brewing
+# Nature's Cauldron
 **Revamps brewing mechanics with... flowers?**
 
 ## Features
@@ -13,10 +13,10 @@
 ## Revamped Potion Recipes
 Potion crafting now centers around flowers! Brewing **Awkward Potion** now uses a **Dandelion** as its base.
 
-<img src="src/main/resources/assets/floral/textures/painting/potions.png" alt="Potion Recipes" width="400">
+<img src="src/main/resources/assets/natures_cauldron/textures/painting/potions.png" alt="Potion Recipes" width="400">
 
 ## **Credits**
 - **Art Assets** created by **Max Westerlund**.
 
 ## Feedback
-Found a bug or got some suggestions, head over to [GitHub Issues](https://github.com/q4niel/Floral-Brewing/issues).
+Found a bug or got some suggestions, head over to [GitHub Issues](https://github.com/q4niel/Natures-Cauldron/issues).
