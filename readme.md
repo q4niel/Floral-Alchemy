@@ -1,5 +1,5 @@
 # Nature's Cauldron
-**Revamps brewing mechanics with... flowers?**
+**Making Brewing Actually Enjoyable**
 
 ## Features
 - **Brewing Stand**: Now crafted with a **Copper Ingot** instead of a Blaze Rod.
@@ -11,7 +11,7 @@
     - **Main Ingredient** increases potion **strength**.
 
 ## Revamped Potion Recipes
-Potion crafting now centers around flowers! Brewing **Awkward Potion** now uses a **Dandelion** as its base.
+**Awkward Potion** brewing now uses either a **Red Mushroom** or a **Brown Mushroom** as its base ingredient.
 
 <img src="src/main/resources/assets/natures_cauldron/textures/painting/potions.png" alt="Potion Recipes" width="400">
 
